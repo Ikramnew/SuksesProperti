@@ -61,7 +61,7 @@ grid.innerHTML = properties.map(p => `
         <span>🛁 ${p.bath} Kamar Mandi</span>
       </div>
       <div class="price">${p.price}</div>
-      <a href="https://wa.me/6281234567890?text=Saya tertarik dengan ${encodeURIComponent(p.name)}" class="btn btn-gold">Lihat Detail</a>
+      <a href="https://wa.me/6285819098540?text=Saya tertarik dengan ${encodeURIComponent(p.name)}" class="btn btn-gold">Lihat Detail</a>
     </div>
   </article>
 `).join('');
